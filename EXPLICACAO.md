@@ -2,7 +2,7 @@
 
 Disciplina: VCIOT, Engenharia de Software, 2026
 
-Equipe: Filipe Ribeiro Simões (RA 24007657)
+Equipe:
 
 ## Escolha do controle
 
